@@ -1,0 +1,33 @@
+body {
+  background-color: #93DE7C;
+  color: white;
+}
+
+h1 {
+  border-radius: 10px;
+  box-shadow: 2px 2px #24BF4E;
+  background-color: #387348;
+  color: white;
+}
+
+button {
+  margin-top: 50px;
+  border-radius: 10px;
+  box-shadow: 2px 2px #24BF4E;
+  background-color: #387348;
+  color: white;
+  width: 150px;
+  height: 30px;
+}
+
+.off {
+  display: none;
+}
+
+.wrapper {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
