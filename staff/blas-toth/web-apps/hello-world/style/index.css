@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap");
+* {
+  font-family: Roboto Condensed;
+}
+
+button {
+  border-style: none;
+}
+button:focus {
+  outline: 0;
+}
+
+.access {
+  border: 1px solid skyblue;
+  padding: 1rem;
+  border-radius: 1rem;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+.access__register {
+  background-color: skyblue;
+  color: white;
+  border-radius: 1rem 0 1rem 0;
+  padding: 0.4rem;
+}
+.access__login {
+  border-style: solid;
+  border-color: skyblue;
+  background-color: transparent;
+  border-radius: 1rem 0 1rem 0;
+  padding: 0.4rem;
+}
+.access__login:hover {
+  background-color: #E9F6FD;
+}
+
+.title {
+  font-family: Bebas Neue;
+}
+
+.register {
+  background-color: tomato;
+  border: 1px solid red;
+  padding: 1rem;
+  border-radius: 1rem;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+.register-confirm {
+  background-color: greenyellow;
+  border: 1px solid green;
+  padding: 1rem;
+  border-radius: 1rem;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+.login {
+  background-color: #F5DD9B;
+  border: 1px solid orange;
+  padding: 1rem;
+  border-radius: 1rem;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+.welcome {
+  background-color: plum;
+  border: 1px solid purple;
+  padding: 1rem;
+  border-radius: 1rem;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+.friends {
+  background-color: lightblue;
+  border: 1px solid purple;
+  padding: 1rem;
+  border-radius: 1rem;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+/*# sourceMappingURL=index.css.map */
